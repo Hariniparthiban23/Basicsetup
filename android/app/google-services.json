@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503865432893",
+    "project_id": "parivahaneye",
+    "storage_bucket": "parivahaneye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503865432893:android:6498622044e4733305c354",
+        "android_client_info": {
+          "package_name": "com.ipssapp.parivahaneye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jM8ZDifat4ZuZSyqyeUujZlJahnpESI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
